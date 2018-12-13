@@ -1,0 +1,5 @@
+user_name = "ubuntu"
+access_key = "xxxxxxxxxxxxxxxxxxx"
+secret_key = "xxxxxxxxxxxxxxxxxxx"
+ssh_key_path = "~/test_key.pem"
+ssh_key_name = "test_key"
